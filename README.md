@@ -8,6 +8,7 @@
 - 自定義參數
 
 ## 安裝
+從 [Release 頁面](https://github.com/FuseFairy/random-seats/releases)下載。
 
 ## 初次使用設定
 <details>
