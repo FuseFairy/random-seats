@@ -18,7 +18,8 @@
 
     ![Macro](https://iili.io/30HypBn.png)
 
-2. 將巨集中的 newFilePath 變數修改為你本地的 `input\student_data.xlsx` 絕對路徑，oldFilePath 變數一般不需要更改。
+2. 將巨集中 newFilePath 變數修改為你本地的 `input\student_data.xlsx` 絕對路徑，oldFilePath 變數為舊的路徑，可以在 資訊 -> 編輯檔案連結 裡面找到，如下圖。
+    ![](https://iili.io/30Mu1ls.png)
     ```
     oldFilePath = "C:\Users\ASUS\Code\random_seats\input\student_data.xlsx"
 
